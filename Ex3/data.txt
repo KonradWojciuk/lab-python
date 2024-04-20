@@ -1,0 +1,5 @@
+sender_email=konrad.wojciuk@microsoft.wsei.edu.pl
+sender_password=@kW07172
+recipient_email=konrad.wojciuk123@gmail.com
+subject=Test
+text=Test
